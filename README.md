@@ -1,1 +1,1 @@
-# Projects
+# QR code component
